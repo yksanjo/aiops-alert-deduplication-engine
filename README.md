@@ -1,10 +1,10 @@
-# AIOps Alert Deduplication Engine
+# aiops-alert-deduplication-engine
 
-Collapse duplicate or derivative alerts to reduce operator fatigue.
+## Detailed Description
 
 ## Vertical
 
-infrastructure
+## Problem Statement
 
 ## Production MVP Deliverables
 
